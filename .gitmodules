@@ -1,0 +1,3 @@
+[submodule "Go-Webtools"]
+	path = Go-Webtools
+	url = https://github.com/kolojar/Go-Webtools
